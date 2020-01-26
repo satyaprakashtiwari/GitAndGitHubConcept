@@ -7,5 +7,10 @@ public class Class1 {
 		System.out.println("this is class 1");
 
 	}
+	
+	public void m1() {
+		
+		System.out.println("M1 from eclipse");
+	}
 
 }
