@@ -31,5 +31,12 @@ public class Class1 {
 
 
 	}
+	    
+	    public void m5() {
+		
+		System.out.println("M5 from git hub");
+
+
+	}
 
 }
