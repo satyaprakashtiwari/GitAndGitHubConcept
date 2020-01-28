@@ -20,9 +20,15 @@ public class Class1 {
 
 	}
 	
+
     public void m4() {
 		
 		System.out.println("M4 from eclipse");
+
+	public void m3() {
+		
+		System.out.println("M3 from git hub");
+
 
 	}
 
