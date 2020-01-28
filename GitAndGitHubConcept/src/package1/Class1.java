@@ -19,5 +19,11 @@ public class Class1 {
 		System.out.println("M2 from git hub");
 
 	}
+	
+    public void m4() {
+		
+		System.out.println("M4 from eclipse");
+
+	}
 
 }
